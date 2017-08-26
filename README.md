@@ -10,3 +10,4 @@ Petr: Druhý řádek
 Petr: Přidal jsem záhlaví na stránku
 
 Dokončení vývoje první verze
+Změna Readme
